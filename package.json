@@ -1,0 +1,53 @@
+{
+  "_from": "git+https://github.com/silviocamposs/cordova-plugin-sunmi-inner-printer.git",
+  "_id": "cordova-plugin-sunmi-inner-printer@1.0.3",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/cordova-plugin-sunmi-inner-printer",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://github.com/silviocamposs/cordova-plugin-sunmi-inner-printer.git",
+    "rawSpec": "git+https://github.com/silviocamposs/cordova-plugin-sunmi-inner-printer.git",
+    "saveSpec": "git+https://github.com/silviocamposs/cordova-plugin-sunmi-inner-printer.git",
+    "fetchSpec": "https://github.com/silviocamposs/cordova-plugin-sunmi-inner-printer.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/silviocamposs/cordova-plugin-sunmi-inner-printer.git#c1e57f8a7db8416c644de96f6563a589f1ecc520",
+  "_spec": "git+https://github.com/silviocamposs/cordova-plugin-sunmi-inner-printer.git",
+  "_where": "/Users/olivierarbez/Development/bs_admin/src-cordova",
+  "author": {
+    "name": "Silvio Campos"
+  },
+  "bugs": {
+    "url": "https://github.com/silviocamposs/cordova-plugin-sunmi-inner-printer/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-sunmi-inner-printer",
+    "platforms": [
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova/Ionic Sunmi V1 Inner Printer",
+  "engines": {
+    "cordovaDependencies": {
+      "3.0.0": {
+        "cordova-android": ">=6.3.0"
+      }
+    }
+  },
+  "homepage": "https://github.com/silviocamposs/cordova-plugin-sunmi-inner-printer#readme",
+  "license": "MIT",
+  "name": "cordova-plugin-sunmi-inner-printer",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silviocamposs/cordova-plugin-sunmi-inner-printer.git"
+  },
+  "version": "1.0.3"
+}
